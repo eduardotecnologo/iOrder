@@ -1,4 +1,4 @@
-# Sistema de Pedidos, utilizando QRCode
+# Sistema de Pedidos, utilizando QRCode e outras feautures
 # Tecnologias
 
 Api em Laravel ![laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
